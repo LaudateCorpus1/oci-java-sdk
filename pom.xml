@@ -37,7 +37,7 @@
     <jackson.version>2.12.0</jackson.version>
     <jersey.version>2.34</jersey.version>
     <apache-httpcomponents.version>4.5.13</apache-httpcomponents.version>
-    <guava.version>31.0.1-jre</guava.version>
+    <guava.version>32.0.0-jre</guava.version>
     <junit.version>4.13.2</junit.version>
     <lombok.version>1.18.20</lombok.version>
     <lombok.maven.version>1.18.20.0</lombok.maven.version>
